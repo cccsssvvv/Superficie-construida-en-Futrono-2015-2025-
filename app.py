@@ -16,8 +16,8 @@ import matplotlib.cm as cm
 # Configuración
 # ─────────────────────────────────────────────────────────────
 
-st.set_page_config(page_title="GeoVisualizador de Paillaco", layout="wide")
-st.title("🌎 GeoVisualizador de Paillaco")
+st.set_page_config(page_title="Superficie construida de Futrono", layout="wide")
+st.title("GeoVisualizador de Futrono")
 st.write("Aplicación desarrollada con Streamlit. Seleccione las capas que desea visualizar.")
 
 DATA = Path("data")
