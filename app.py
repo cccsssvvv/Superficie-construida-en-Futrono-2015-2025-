@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import analisis_crecimiento as ac
 
 st.set_page_config(page_title="GeoVisualizador Futrono", layout="wide")
-st.title("GeoVisualizador de Futrono")
+st.title("Geovisualizador del crecimiento urbano en la comuna de Futrono (2015-2025)")
 st.write("Aplicación para visualizar capas geoespaciales de la comuna de Futrono, Región de Los Ríos, Chile. Datos proyectados en EPSG:32718 (UTM 18S).")
 
 DATA = Path("data")
