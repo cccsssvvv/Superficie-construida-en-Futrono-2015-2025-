@@ -1,5 +1,5 @@
 # Crecimiento urbano en la comuna de Futrono (2015-2025)
-En esta aplicación podrás observar y analizar el crecimiento urbano que ha tenido la comuna de Futrono en sus distintass localidades. El crecimiento urbano está representadao por las áreas construidas.
+Esta aplicación es un proyecto prototipo en que podrás observar y analizar el crecimiento urbano que ha tenido la comuna de Futrono en sus distintass localidades. El crecimiento urbano está representadao por las áreas construidas.
 
 Proyección EPSG:32718
 
